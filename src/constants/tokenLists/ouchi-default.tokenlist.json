@@ -1,0 +1,89 @@
+{
+  "name": "Ouchi Default List",
+  "timestamp": "2021-07-30T20:45:10.987Z",
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
+  "keywords": [
+    "ouchi",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "OUCHI Token",
+      "address": "0xd61e4655efC1B9a9D8973F32C3FB98438AbA928f",
+      "symbol": "OUCHI",
+      "decimals": 18,
+      "chainId": 56788,
+      "logoURI": "https://raw.githubusercontent.com/ozcn/assets/master/tokens/OUCHI/logo.png"
+    },
+    {
+      "name": "Ethereum Token",
+      "address": "0xE00Ae75194A90eB4AF04c1Dc9FB55bcE7ECddDaa",
+      "symbol": "ETH",
+      "decimals": 18,
+      "chainId": 56789,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "name": "DAI Stablecoin",
+      "address": "0xADF067932caD7C62b132bdc5577D88533a46D6cE",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 56789,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+    },
+    {
+      "name": "Tether USD",
+      "address": "0x102299179c7617a2BEF15a98abB1CD0B48D18A65",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 56789,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    },
+    {
+      "name": "Wrapped BTC",
+      "address": "0x1F22A0Ed49c1ABbc2BD8f9205bb3672305087551",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "chainId": 56788,
+      "logoURI": "https://raw.githubusercontent.com/ozcn/assets/master/tokens/WBTC/logo.png"
+    },
+    {
+      "name": "KabukiCoin",
+      "address": "0xfED0ee9855eF9202cF0E2611dDa8C10fBcd4A8c9",
+      "symbol": "KKB",
+      "decimals": 18,
+      "chainId": 56788,
+      "logoURI": "https://raw.githubusercontent.com/ozcn/assets/master/tokens/KKB/logo.png"
+    },
+    {
+      "name": "Dai Stablecoin",
+      "address": "0x882B758d777d18694E7f47d3FbA1CA3B649C3145",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 4,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+    },
+    {
+      "name": "Tether USD",
+      "address": "0x2723fe8B5aa9B69B473ED9e0290afd07C9794442",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 4,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    },
+    {
+      "name": "Wrapped BTC",
+      "address": "0x66f99e4e6144b3605689c57de5c6Bc10721F18b1",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "chainId": 4,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+    }
+  ]
+}
